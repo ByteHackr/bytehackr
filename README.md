@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandipan Roy</h1>
-<h3 align="center">A passionate security engineer from India</h3>
+<h3 align="center">A passionate security engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytehackr" alt="bytehackr" /> </p>
 
