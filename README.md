@@ -1,6 +1,3 @@
-
-I'm a Computer Science student with a passion for coding & testing and interested in IT Security. Recently completed M.Sc in Computer Science with a demonstrated history of working in the computer and network security, software testing & IT automation.I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
-
 <h1 align="center">Hi 👋, I'm Sandipan Roy</h1>
 <h3 align="center">A passionate security engineer from India</h3>
 
