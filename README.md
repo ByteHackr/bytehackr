@@ -7,9 +7,9 @@ I'm a Computer Science student with a passion for coding & testing and intereste
 
 - 🔭 I’m currently working on [Parrot Security](https://parrotsec.org/)
 
-- 📝 I regulary write articles on [www.sandipan.ml](https://sandipan.ml)
+- 📝 I occasionally write articles on [www.sandipan.ml](https://sandipan.ml)
 
-- 📫 How to reach me **sandipan@parrotsec.org**
+- 📫 Reach me anytime at **sandipan@parrotsec.org**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
