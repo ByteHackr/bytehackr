@@ -1,6 +1,4 @@
-# Hi, I'm Sandipan 👋🏾 👩🏾‍💻
 
-<img src="https://github.com/ByteHackr/bytehackr/blob/master/me_avtar.png" alt="banner that says Sandipan Roy - Security Engineer">
 I'm a Computer Science student with a passion for coding & testing and interested in IT Security. Recently completed M.Sc in Computer Science with a demonstrated history of working in the computer and network security, software testing & IT automation.I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
 
 <h1 align="center">Hi 👋, I'm Sandipan Roy</h1>
@@ -8,9 +6,11 @@ I'm a Computer Science student with a passion for coding & testing and intereste
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytehackr" alt="bytehackr" /> </p>
 
+I'm a Computer Science student with a passion for coding & testing and interested in IT Security. Recently completed M.Sc in Computer Science with a demonstrated history of working in the computer and network security, software testing & IT automation.I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
+
 - 🔭 I’m currently working on [Parrot Security](https://parrotsec.org/)
 
-- 📝 I regulary write articles on [https://sandipan.ml](https://sandipan.ml)
+- 📝 I regulary write articles on [www.sandipan.ml](https://sandipan.ml)
 
 - 📫 How to reach me **sandipan@parrotsec.org**
 
