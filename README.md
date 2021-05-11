@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytehackr&label=Profile%20views&color=0e75b6&style=flat" alt="bytehackr" /> </p>
 
-An independent and self-motivated computer science graduate with a passion for computational systems and an interest in IT Security. Completed M.Sc. in Computer Science with a demonstrated history of working in system administration, network security & vulnerability management. Also having experience in penetration testing and reporting and provided a powerful combination of analysis, implementation, and customer support. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
+<p style='text-align: justify;'> An independent and self-motivated computer science graduate with a passion for computational systems and an interest in IT Security. Completed M.Sc. in Computer Science with a demonstrated history of working in system administration, network security & vulnerability management. Also having experience in penetration testing and reporting and provided a powerful combination of analysis, implementation, and customer support. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.</p>
 
 Skills: Penetration Test | Threat Hunting | Security Research
 
