@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sandipan Roy
 #### A passionate Security Engineer from India
-![A passionate Security Engineer from India](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A passionate Security Engineer from India]
 
 An independent and self-motivated computer science graduate with a passion for computational systems and an interest in IT Security. Completed M.Sc. in Computer Science with a demonstrated history of working in system administration, network security & vulnerability management. Also having experience in penetration testing and reporting and provided a powerful combination of analysis, implementation, and customer support. I’m truly passionate about my work and always increase my knowledge. I also like to try new technologies and improve myself under each point of view.
 
