@@ -13,8 +13,12 @@ Skills: Penetration Test | Threat Hunting | Security Research
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bytehackr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bytehackr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Bytehackr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Bytehackr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Bytehackr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](sandipan.ml)  
+
+## Connect with Me 🤝🏻
+
+[![Website](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/ws.svg)](https://sandipan.ml/) [![Blog](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/bl.svg)](https://blog.bytehackr.ml/) [![LinkedIn](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/li.svg)](https://uk.linkedin.com/in/bytehackr/) [![Twitter](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/tw.svg)](https://twitter.com/bytehackr)[![GitHub](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/gh.svg)](https://github.com/bytehackr) [![GitLab](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/gl.svg)](https://gitlab.com/bytehackr) [![PayPal](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/pp.svg)](https://www.paypal.me/bytehackr) [![Reddit](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/r.svg)](https://reddit.com/u/bytehackr/) [![Facebook](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/fb.svg)](https://www.facebook.com/bytehackr) [![Instagram](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/ig.svg)](https://instagram.com/bytehackr) [![Telegram](https://raw.githubusercontent.com/bytehackr/bytehackr/master/soc/tg.svg)](https://t.me/bytehackr) 
 
 
 
 
+| ![Sandipan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bytehackr&show_icons=true) | ![Sandipan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bytehackr) | 
