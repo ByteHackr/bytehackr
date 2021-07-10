@@ -21,4 +21,4 @@ Skills: Penetration Test | Threat Hunting | Security Research
 
 
 
-| ![Sandipan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bytehackr&show_icons=true) | ![Sandipan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bytehackr) | 
+![Sandipan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bytehackr&show_icons=true)  ![Sandipan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bytehackr) 
