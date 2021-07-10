@@ -10,7 +10,7 @@
 <a href="https://twitter.com/bytehackr" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/bytehackr/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 Skills: Penetration Test | Threat Hunting | Security Research
 
-- 🔭 I’m currently working at [Parrot Security CIC](https://parrotsec.org/)
+- 🔭 I’m currently working at [Parrot Security](https://parrotsec.org/)
 
 - 📫 Reach me anytime at **sandipan@parrotsec.org**
 
