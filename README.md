@@ -12,7 +12,7 @@ Skills: Penetration Test | Threat Hunting | Security Research
 
 - 🔭 I’m currently working at [Red Hat](https://redhat.com/) as Associate Product Security Engineer.
 
-- 📫 Reach me anytime at **sandipan@redhat.com**
+- 📫 Reach me anytime at **https://t.me/bytehackr**
 
 
 
