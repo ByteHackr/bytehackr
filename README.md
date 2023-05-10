@@ -16,7 +16,9 @@ I am always looking for new ways to improve my skills and advance my career in t
 <a href="https://twitter.com/bytehackr" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="100px" width="100px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/bytehackr/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="100px" width="100px" alt="Twitter" align="right"></a>
 Skills: Penetration Test | Threat Hunting | Security Research
 
-- 🔭 I’m currently working at [Red Hat](https://redhat.com/) as Product Security Engineer.
+</br>
+</br>
+
 - 🔑 GPG Key ID: 0x2895D0A52FEAA194
 - 📞 Reach me anytime at sandipan@redhat.com or sandipan@linux.com
 
